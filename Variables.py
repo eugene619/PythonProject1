@@ -1,4 +1,4 @@
-#variable is a container used to store a value
+# variable is a container used to store a value
 
 name = "Eugene"
 school = "eMobilis"

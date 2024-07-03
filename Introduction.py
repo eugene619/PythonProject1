@@ -1,4 +1,4 @@
-#print is a method used to display a value
+# print is a method used to display a value
 
 print("Eugene")
 print(100)
